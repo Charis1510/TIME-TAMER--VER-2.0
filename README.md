@@ -1,27 +1,39 @@
-# Time Tamer - ADHD-Friendly Timer
+# Time Tamer
 
-A specialized timer application designed for individuals with ADHD, featuring work/rest cycles, hyperfocus mode, and helpful reminders.
+An ADHD-friendly timer application with work/rest periods and hyperfocus mode.
 
 ## Features
-- Work/Rest timer with random or manual time splitting
-- Hyperfocus mode with duration tracking
-- Motivational break reminders
-- Visual progress tracking with circular timer
+
+- Customizable work/rest periods
+- Random or manual time splitting
+- Hyperfocus mode with body check-ins
 - Session history tracking
-- Clean, distraction-free interface
+- Beautiful circular progress visualization
+- Sound notifications for transitions
+- Offline functionality (PWA)
+- Mobile-friendly design
 
-## How to Use
-1. Enter your task name and total duration
-2. Choose between random or manual work/rest split
-3. Start the timer and follow the work/rest cycles
-4. Use hyperfocus mode when you're in the zone
-5. Take breaks when suggested
+## Usage
 
-## Live Demo
-Visit [https://charis1510.github.io/TIME-TAMER/](https://charis1510.github.io/TIME-TAMER/)
+1. Enter your task name
+2. Set the total duration
+3. Choose between random or manual work/rest split
+4. Start the timer
+5. Use hyperfocus mode when needed
+6. Track your sessions in the history
 
-## Technologies Used
-- HTML5
-- CSS3
-- Vanilla JavaScript
-- Web Audio API for sound effects 
+## Installation
+
+No installation required! This is a Progressive Web App (PWA) that can be used directly in your browser. Visit the deployed site at [GitHub Pages URL] to get started.
+
+## Development
+
+To run this project locally:
+
+1. Clone the repository
+2. Open `index.html` in your browser
+3. Start using the timer!
+
+## License
+
+MIT License - feel free to use and modify as needed. 
